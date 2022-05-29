@@ -20,7 +20,7 @@ SIM_NAME = '2v2a3e'
 # In[52]:
 
 
-PATH = '/run/user/1000/gvfs/sftp:host=160.75.91.59,user=badaylab/Volumes/My_Book_Duo/work/projects/peptides_amphihiles/stupp_jacs2010'
+PATH = 'Volumes/My_Book_Duo/work/projects/peptides_amphihiles'
 
 
 # In[53]:
